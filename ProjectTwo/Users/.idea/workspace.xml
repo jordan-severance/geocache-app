@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cedd1916-f6c3-4cb3-ad50-e3ee88246cc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bmGZh6Ww6AZOiYOz3aEHdXa5k7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GeoCache" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All in ThatTeam_Users" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThatTeam_Users" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ThatTeam_Users" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cedd1916-f6c3-4cb3-ad50-e3ee88246cc9" name="Default Changelist" comment="" />
+      <created>1589229913022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589229913022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1589322554269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1589322554269" />
+    <state x="288" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589322237602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="288" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1589322237602" />
+    <state x="-1213" y="243" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590337660106">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1213" y="243" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590337660106" />
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1590337340731">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590337340731" />
+    <state x="-1234" y="211" key="FileChooserDialogImpl" timestamp="1590446645352">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1234" y="211" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590446645352" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1589238541345" />
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom" timestamp="1590498692756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590338592336" />
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590498692756" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center" timestamp="1590498692756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590338592336" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590498692756" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left" timestamp="1590498692756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590338592336" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590498692756" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right" timestamp="1590498692756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590338592336" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590498692756" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1590168155119">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590168155119" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ThatTeam_Users$All_in_ThatTeam_Users.ic" NAME="All in ThatTeam_Users Coverage Results" MODIFIED="1590446610275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

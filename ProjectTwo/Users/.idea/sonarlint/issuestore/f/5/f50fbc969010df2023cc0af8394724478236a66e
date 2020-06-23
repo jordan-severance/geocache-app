@@ -1,0 +1,47 @@
+
+]	java:S125g"<This block of commented-out lines of code should be removed.(‡Ή¥‘ωÿÿÿÿ8Ρ΅υκ£.
+g
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(νΚ‹ƒϊÿÿÿÿ8Ρ΅υκ£.
+c	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(†γόΣ8Ρ΅υκ£.
+c	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(κ°ν8Ρ΅υκ£.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(γή8Ρ΅υκ£.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(›·λ8Ρ΅υκ£.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(±»‚ÿÿÿÿÿ8Ρ΅υκ£.
+ 
+java:S11921"~Define a constant instead of duplicating this literal "UserDAOImpl_PGR::updateUser() - ERROR - results list is empty" 4 times.(±»‚ÿÿÿÿÿ8Ρ΅υκ£.
+©
+java:S1192-"‹Define a constant instead of duplicating this literal "UserDAOImpl_PGR::updateUser() - ERROR - results are more than expected (1)" 6 times.(›·λ8Ρ΅υκ£.
+c	java:S112Λ"FDefine and throw a dedicated exception instead of using a generic one.(κ°ν8Ρ΅υκ£.
+[	java:S106Ν"9Replace this use of System.out or System.err by a logger.(±»‚ÿÿÿÿÿ8Ρ΅υκ£.
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(•ωδ8Ρ΅υκ£.
+h	java:S112Ξ"FDefine and throw a dedicated exception instead of using a generic one.(ΩΊΡÒψÿÿÿÿ8Ρ΅υκ£.
+c	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(κ°ν8Ρ΅υκ£.
+[
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(π‰‡8Ρ΅υκ£.
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(Ίΐ”8Ρ΅υκ£.
+\
+java:S1155Μ">Use isEmpty() to check whether the collection is empty or not.(π‰‡8Ρ΅υκ£.
+[
+java:S1155p">Use isEmpty() to check whether the collection is empty or not.(π‰‡8Ρ΅υκ£.
+]	java:S125%"<This block of commented-out lines of code should be removed.(‡Ή¥‘ωÿÿÿÿ8Ρ΅υκ£.
+h
+java:S2095‚"EUse try-with-resources or close this "Session" in a "finally" clause.(νΚ‹ƒϊÿÿÿÿ8Ρ΅υκ£.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΥΐΓύÿÿÿÿ
+\
+java:S1155‘">Use isEmpty() to check whether the collection is empty or not.(π‰‡8Ρ΅υκ£.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(›·λ8Ρ΅υκ£.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ΈΠύÿÿÿÿ8Ρ΅υκ£.
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(Α΅Βƒ8Ρ΅υκ£.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(±»‚ÿÿÿÿÿ8Ρ΅υκ£.
+V	java:S106Κ"9Replace this use of System.out or System.err by a logger.(›·λ8Ρ΅υκ£.
+^	java:S125»"<This block of commented-out lines of code should be removed.(δ„ρ£ύÿÿÿÿ8Ρ΅υκ£.
+h
+java:S2095±"EUse try-with-resources or close this "Session" in a "finally" clause.(νΚ‹ƒϊÿÿÿÿ8Ρ΅υκ£.
+Y	java:S125ΰ"<This block of commented-out lines of code should be removed.(ησΣ¦8Ρ΅υκ£.
+X	java:S1252"<This block of commented-out lines of code should be removed.(αΓΖ8Ρ΅υκ£.
+]	java:S125'"<This block of commented-out lines of code should be removed.(΄µξÿÿÿÿÿ8Ρ΅υκ£.
+]	java:S125G"<This block of commented-out lines of code should be removed.(µΐΩώÿÿÿÿ8Ρ΅υκ£.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(»•΄ζωÿÿÿÿ8Ρ΅υκ£.
+Z
+java:S1854•"7Remove this useless assignment to local variable "tmp".(ΣÒΉΈύÿÿÿÿ8Ρ΅υκ£.
+X	java:S125."<This block of commented-out lines of code should be removed.(αΓΖ8Ρ΅υκ£.

@@ -1,0 +1,11 @@
+com\ex\services\GpsService.class
+com\ex\dao\GpsDAOImpl_PGR.class
+com\ex\servlets\GeoCacheRemoveItem.class
+com\ex\servlets\GeoCachePlaceItem.class
+com\ex\servlets\GeoCacheReadAndWriteServlet.class
+com\ex\model\GeoCashe.class
+com\ex\model\Item.class
+com\ex\dao\GpsDAO.class
+com\ex\databaseUtils\HibernateUtil.class
+com\ex\model\GeoCasheHistorys.class
+com\ex\model\DifficultyLevel.class
